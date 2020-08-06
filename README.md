@@ -8,6 +8,7 @@
 ## Packages
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)
 - [The `caret` Package](http://topepo.github.io/caret/index.html)
+- [Mastering Shiny](https://mastering-shiny.org/)
 
 ## Spark
 - [Scalable Machine Learning and Data Science with Microsoft R Server and Spark](https://bookdown.org/alizaidi/mrs-spark-ml/)
